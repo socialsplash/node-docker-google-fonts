@@ -1,0 +1,15 @@
+{
+  "name": "node-docker-google-fonts",
+  "version": "1.0.0",
+  "description": "Node Docker image with Google Fonts pre-downloaded",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "google-font-metadata": "^3.0.1"
+  }
+}
