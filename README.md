@@ -5,6 +5,12 @@ This image is based on Node 14.
 
 Note: This image is used by SocialSplash for its specific needs, and wasn't meant to be a general purpose image.
 
+## Usage
+
+```Dockerfile
+FROM williamdasilva/socialsplash-node-fonts
+```
+
 ## License
 
 MIT
